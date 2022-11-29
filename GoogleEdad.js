@@ -1,1 +1,1 @@
-let Edad= prompt("¿Cuál es su edad?")
+const edad= prompt("¿Cuál es tu edad?")
